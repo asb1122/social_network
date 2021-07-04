@@ -1,0 +1,22 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+    width: 80%;
+}
+
+.avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: blue;
+}
+
+.wrapper {
+    margin-left: 10px;
+}
+
+.activeBlock {
+    display: flex;
+    align-items: flex-end;
+}

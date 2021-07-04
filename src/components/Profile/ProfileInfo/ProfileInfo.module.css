@@ -1,0 +1,16 @@
+.banner img {
+  width: 952px;
+}
+
+.user_block {
+  display: flex;
+  border-bottom: 1px solid #d8d7d7;
+}
+  
+.avatar_wrapper img {
+  border-radius: 50%;
+}
+  
+.userProfile {
+  margin-left: 30px;
+}

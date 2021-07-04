@@ -1,0 +1,20 @@
+.myPosts {
+    margin: 10px;
+}
+
+.wrapper {
+    margin-bottom: 40px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    resize: none;
+}
+
+button {
+    float: right;
+    background-color: #5f61e6;
+    color: #fff;
+    padding: 10px;
+}
